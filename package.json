@@ -1,0 +1,17 @@
+{
+  "name": "tools-services",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^7.0.29",
+    "express": "^4.15.3",
+    "express-react-views": "^0.10.2",
+    "k8s": "^0.4.14",
+    "nodemon": "^1.11.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "socket.io": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.35"
+  }
+}
